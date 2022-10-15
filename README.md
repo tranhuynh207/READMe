@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Trân 
 - 👀 I love data and this is where I will store all my projects during my time at school, at work, and self-learning during free time. 
-- 🌱 My background is in economics and development, with experience in working with data for researchs 
+- 🌱 My background is in economics and development, with experience in working with data for research 
 - 📫 How to reach me? tranhuynh207@outlook.com
 
 <!---
